@@ -1,0 +1,33 @@
+.title {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 4rem;
+}
+
+#headerBlock {
+    background-color: #00adb5;
+    color: azure;
+    padding: 4rem;
+    margin: 2rem 0 0 0;
+}
+
+.subheading {
+    margin: 2rem 0 2rem 0;
+}
+
+.emptySpace {
+    height: 1rem;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+}
+
+li {
+    padding: 0.5rem;
+}
+
+.bodyText{
+    font-family: 'Quicksand', sans-serif;
+    margin: 0 8rem;
+}
