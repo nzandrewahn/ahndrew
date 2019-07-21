@@ -31,3 +31,8 @@ li {
     font-family: 'Quicksand', sans-serif;
     margin: 0 8rem;
 }
+
+#roboticsImage {
+    width: 5rem;
+    height: 5rem;
+}
