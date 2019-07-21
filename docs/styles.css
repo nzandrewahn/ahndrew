@@ -1,3 +1,17 @@
+body {
+    background-color: #e3fdfd;
+    color: #112d4e;
+   
+
+}
+
+hr {
+    height: 3px;
+    background-color: #00adb5;
+    width: 50%;
+    margin: 5rem auto;
+}
+
 .title {
     font-family: 'Quicksand', sans-serif;
     font-size: 4rem;
@@ -7,7 +21,7 @@
     background-color: #00adb5;
     color: azure;
     padding: 4rem;
-    margin: 2rem 0 0 0;
+    margin: 5rem 0 5rem 0;
 }
 
 .subheading {
@@ -33,6 +47,14 @@ li {
 }
 
 #roboticsImage {
-    width: 5rem;
-    height: 5rem;
+    margin: 2rem 0 2rem 0;
+    width: 8rem;
+    height: 8rem;
 }
+
+#educationImage {
+    margin: 2rem 0 0 0;
+    width: 8rem;
+    height: 8rem;
+}
+
